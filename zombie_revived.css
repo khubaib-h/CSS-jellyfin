@@ -8,12 +8,12 @@ h4 {
 }
 :root {
   --zombieFooterText: "Zombie v2.0.12";
-  --accent: 255, 255, 255;
-  --accent-off: 36, 36, 36;
-  --dark: 24, 24, 24;
-  --darkest: 12, 12, 12;
-  --dark-highlight: 48, 48, 48;
-  --dark-apparent: 43, 43, 43;
+  --accent: 229, 9, 20;
+  --accent-off: 178, 7, 16;
+  --dark: 20, 20, 20;
+  --darkest: 10, 10, 10;
+  --dark-highlight: 35, 35, 35;
+  --dark-apparent: 25, 25, 25;
   --white: 243, 242, 243;
   --white-off: 207, 221, 233;
   --jade-green: 0, 172, 111;
